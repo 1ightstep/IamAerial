@@ -702,13 +702,13 @@
         "uuid": "d724d069-aba3-4cc4-b944-eda101868977"
       }
     ],
-    "used_designators": "#PWR10,#PWR69,#PWR71-72,C25,J12",
+    "used_designators": "L1,D1,#PWR10,#PWR19-24,#PWR69,#PWR71-72,C17-20,C25,R14-15,J12,U5",
     "variants": []
   },
   "sheets": [
     [
       "d724d069-aba3-4cc4-b944-eda101868977",
-      "iamaerial"
+      "flight_controller"
     ]
   ],
   "text_variables": {},
