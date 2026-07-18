@@ -14597,7 +14597,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "10uH"
 			(at 349.25 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
